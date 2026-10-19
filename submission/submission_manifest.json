@@ -1,0 +1,20 @@
+{
+  "candidate": "ja.gaslacma@unsm.edu.pe",
+  "candidate_name": "JOSE ALEXANDER GASLAC MAS",
+  "models_and_tools": [
+    {
+      "tool": "Claude Code (extensión de VS Code)",
+      "model": "claude-sonnet-5-5"
+    }
+  ],
+  "evaluated_file": "candidate_strategy.py",
+  "generated_artifacts": [
+    "generated_artifacts/tune.py",
+    "generated_artifacts/test_mi_estrategia.py"
+  ],
+  "conversation_files": [
+    "ai_conversations/session-01.jsonl"
+  ],
+  "redactions": [],
+  "declaration": "He revisado, comprendido y verificado la entrega final, incluidas las ayudas de IA declaradas, y asumo la responsabilidad de su contenido."
+}
